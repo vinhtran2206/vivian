@@ -1,0 +1,2689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fashop-default.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fashop-default.myshopify.com/collections/women-s.atom"/>
+  <title>fashop-default</title>
+  <updated>2016-12-03T17:05:09-05:00</updated>
+  <author>
+    <name>fashop-default</name>
+  </author>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097940940</id>
+    <published>2016-12-03T17:05:09-05:00</published>
+    <updated>2016-12-03T17:05:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/copy-of-diesel-shirt-s-tokie-shirt"/>
+    <title>Diesel T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/PRINTED_TOP_WITH_KNOT.jpg?v=1481124138" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10-$100</s:tag>
+    <s:tag>34</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>Blazers</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>Jumpers &amp; Cardigans</s:tag>
+    <s:tag>Levi&apos;s</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sweat Pants</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097940940</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097940236</id>
+    <published>2016-12-03T17:05:06-05:00</published>
+    <updated>2016-12-03T17:05:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/strike-up-heels"/>
+    <title>STRIKE UP Heels</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/PRINTED_TURBAN-STYLE_HAIRBAND_7b341af0-1f08-4418-aade-efcec4c72128.jpg?v=1481126886" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=L9szn1QQfas[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10-$100</s:tag>
+    <s:tag>44</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Guess</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097940236</id>
+      <title>Default Title</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097940108</id>
+    <published>2016-12-03T17:05:05-05:00</published>
+    <updated>2016-12-03T17:05:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/black-cap"/>
+    <title>Black Cap</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/BASIC_POPLIN_SHIRT.jpg?v=1481123934" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>Blouses &amp; Shirts</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>GAP</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097940108</id>
+      <title>Default Title</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097940044</id>
+    <published>2016-12-03T17:05:05-05:00</published>
+    <updated>2016-12-03T17:05:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/black-coffee-belt"/>
+    <title>Black Coffee Belt</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/BODY_SHAPING_LEGGINGS.jpg?v=1481123971" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>Blouses &amp; Shirts</s:tag>
+    <s:tag>Casual Everyday</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Fit &amp; Flare</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>ZARA</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097940044</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097940172</id>
+    <published>2016-12-03T17:05:05-05:00</published>
+    <updated>2016-12-03T17:05:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/black-large"/>
+    <title>Black Large</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/CHOKER_PACK.jpg?v=1481123978" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>Blouses &amp; Shirts</s:tag>
+    <s:tag>Casual Everyday</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Polo</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097940172</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097939916</id>
+    <published>2016-12-03T17:05:05-05:00</published>
+    <updated>2016-12-03T17:05:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/bright-white-shoes"/>
+    <title>Bright White Shoes</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/FABRIC_TEXT_BAG_DETAILS.jpg?v=1481123996" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>34</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>Blouses &amp; Shirts</s:tag>
+    <s:tag>Casual Everyday</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>Levi&apos;s</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939916</id>
+      <title>Default Title</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097939852</id>
+    <published>2016-12-03T17:05:05-05:00</published>
+    <updated>2016-12-03T17:05:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/brushed-leather-boots"/>
+    <title>Brushed Leather Boots</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/FUR_HIDE_CLUTCH.jpg?v=1481124017" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>Blouses &amp; Shirts</s:tag>
+    <s:tag>Casual Everyday</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>GAP</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939852</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097939660</id>
+    <published>2016-12-03T17:05:04-05:00</published>
+    <updated>2016-12-03T17:05:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/cognac-shoes"/>
+    <title>Cognac Shoes</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/JACQUARD_LEGGINGS.jpg?v=1481124035" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>42</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Polo</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939660</id>
+      <title>Default Title</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097939596</id>
+    <published>2016-12-03T17:05:04-05:00</published>
+    <updated>2016-12-03T17:05:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/cornstalk-shoes"/>
+    <title>Cornstalk Shoes</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/LEATHER_FUR_CROSSBODY_BAG.jpg?v=1481124040" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>44</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Guess</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939596</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097939724</id>
+    <published>2016-12-03T17:05:04-05:00</published>
+    <updated>2016-12-03T17:05:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/jeans-duffle-holdall"/>
+    <title>Jeans Duffle Holdall</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/WRAP_CULOTTES_2.jpg?v=1481124267" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>ZARA</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939724</id>
+      <title>S / red</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939724</id>
+      <title>S / green</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939724</id>
+      <title>S / blue</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939724</id>
+      <title>M / red</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939724</id>
+      <title>M / green</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939724</id>
+      <title>M / blue</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939724</id>
+      <title>L / red</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939724</id>
+      <title>L / green</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939724</id>
+      <title>L / blue</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097939468</id>
+    <published>2016-12-03T17:05:03-05:00</published>
+    <updated>2016-12-03T17:05:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/damper-flight-bag"/>
+    <title>Damper Flight Bag</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/LIMITED_EDITION_BOMBER_JACKET.jpg?v=1481124097" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>GAP</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939468</id>
+      <title>Default Title</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097939340</id>
+    <published>2016-12-03T17:05:02-05:00</published>
+    <updated>2016-12-03T17:05:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/d-kallien-boots"/>
+    <title>Diesel Sive Printed Scarf</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/PRINTED_BODYSUIT.jpg?v=1481124132" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            145.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>34</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>Levi&apos;s</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939340</id>
+      <title>S / red</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939340</id>
+      <title>S / green</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939340</id>
+      <title>S / blue</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939340</id>
+      <title>M / red</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939340</id>
+      <title>M / green</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939340</id>
+      <title>M / blue</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939340</id>
+      <title>L / red</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939340</id>
+      <title>L / green</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939340</id>
+      <title>L / blue</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097939148</id>
+    <published>2016-12-03T17:05:02-05:00</published>
+    <updated>2016-12-03T17:05:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/golden-brown"/>
+    <title>Golden Brown</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/SOFT_SCARF.jpg?v=1481124235" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>GAP</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939148</id>
+      <title>Default Title</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097939212</id>
+    <published>2016-12-03T17:05:02-05:00</published>
+    <updated>2016-12-03T17:05:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/diesel-leather-wallet"/>
+    <title>Tank Vest With Ban</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/PRINTED_TURBAN-STYLE_HAIRBAND_2_fc7ab418-2551-4f49-9368-544182267706.jpg?v=1481126909" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=L9szn1QQfas[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>44</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Guess</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939212</id>
+      <title>S / red</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939212</id>
+      <title>S / green</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939212</id>
+      <title>S / blue</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939212</id>
+      <title>M / red</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939212</id>
+      <title>M / green</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939212</id>
+      <title>M / blue</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939212</id>
+      <title>L / red</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939212</id>
+      <title>L / green</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939212</id>
+      <title>L / blue</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097939084</id>
+    <published>2016-12-03T17:05:01-05:00</published>
+    <updated>2016-12-03T17:05:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/herschel-novel-holdall"/>
+    <title>Herschel Novel Holdall</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/TROUSERS_WITH_SIDE_STRIPE.jpg?v=1481124240" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>GAP</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939084</id>
+      <title>Default Title</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097939020</id>
+    <published>2016-12-03T17:05:01-05:00</published>
+    <updated>2016-12-03T17:05:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/leg-avenue-tights"/>
+    <title>Leg Avenue Tights</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/COLOURFUL_AVIATOR_GLASSES_2_5d020e28-c5d5-4b89-834e-f9943340641e.jpg?v=1481124468" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>ZARA</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097939020</id>
+      <title>Default Title</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097938764</id>
+    <published>2016-12-03T17:05:00-05:00</published>
+    <updated>2016-12-03T17:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/suede-plimsoll-shoes"/>
+    <title>Zuede plimsoll Shoes</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/PLEATED_TROUSERS_3_69bb2967-a359-490a-957e-6322342a4ebb.jpg?v=1481127002" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[icon-new-always][smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>44</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Guess</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938764</id>
+      <title>S / red</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938764</id>
+      <title>S / green</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938764</id>
+      <title>S / blue</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938764</id>
+      <title>M / red</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938764</id>
+      <title>M / green</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938764</id>
+      <title>M / blue</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938764</id>
+      <title>L / red</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938764</id>
+      <title>L / green</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938764</id>
+      <title>L / blue</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097938572</id>
+    <published>2016-12-03T17:04:59-05:00</published>
+    <updated>2016-12-03T17:04:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/dark-floral-trouser"/>
+    <title>Dark Floral Trouser</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/LONG_SHINY_DRESS.jpg?v=1481124101" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>Blouses &amp; Shirts</s:tag>
+    <s:tag>Casual Everyday</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Fit &amp; Flare</s:tag>
+    <s:tag>Going Out &amp; Party Dresses</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>Midi Dresses</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>Occasion &amp; Cocktail</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Shift Dresses</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Slip Dresses</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sweaters &amp; Cardigans</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:tag>Tunic Dresses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>ZARA</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938572</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097938508</id>
+    <published>2016-12-03T17:04:59-05:00</published>
+    <updated>2016-12-03T17:04:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/denim-waist-shorts"/>
+    <title>Denim Waist Shorts</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/PINSTRIPE_BOX_PLEAT_SKIRT._1.jpg?v=1481124116" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>42</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>Blouses &amp; Shirts</s:tag>
+    <s:tag>Casual Everyday</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Fit &amp; Flare</s:tag>
+    <s:tag>Going Out &amp; Party Dresses</s:tag>
+    <s:tag>Guess</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>Midi Dresses</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>Occasion &amp; Cocktail</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Shift Dresses</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Slip Dresses</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sweaters &amp; Cardigans</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:tag>Tunic Dresses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938508</id>
+      <title>Default Title</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097938380</id>
+    <published>2016-12-03T17:04:59-05:00</published>
+    <updated>2016-12-03T17:04:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/front-cami-top"/>
+    <title>Front Cami Top</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/SHORT_SLEEVE_SHINY_SWEATER.jpg?v=1481124161" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>Blouses &amp; Shirts</s:tag>
+    <s:tag>Casual Everyday</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Fit &amp; Flare</s:tag>
+    <s:tag>GAP</s:tag>
+    <s:tag>Going Out &amp; Party Dresses</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>Midi Dresses</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>Occasion &amp; Cocktail</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Shift Dresses</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Slip Dresses</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sweaters &amp; Cardigans</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:tag>Tunic Dresses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938380</id>
+      <title>Default Title</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097938636</id>
+    <published>2016-12-03T17:04:59-05:00</published>
+    <updated>2016-12-03T17:04:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/slim-ankle-leg-jean"/>
+    <title>Slim Ankle Leg Jean</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/COLOURFUL_AVIATOR_GLASSES_3_804ec4d9-2c60-4a2e-bd7e-1d49e37c91f6.jpg?v=1481124528" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>42</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>Blouses &amp; Shirts</s:tag>
+    <s:tag>Casual Everyday</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Fit &amp; Flare</s:tag>
+    <s:tag>Going Out &amp; Party Dresses</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Midi Dresses</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>Occasion &amp; Cocktail</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Shift Dresses</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Slip Dresses</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sweaters &amp; Cardigans</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:tag>Tunic Dresses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938636</id>
+      <title>S / red</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938636</id>
+      <title>S / green</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938636</id>
+      <title>S / blue</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938636</id>
+      <title>M / red</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938636</id>
+      <title>M / green</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938636</id>
+      <title>M / blue</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938636</id>
+      <title>L / red</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938636</id>
+      <title>L / green</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938636</id>
+      <title>L / blue</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097938316</id>
+    <published>2016-12-03T17:04:58-05:00</published>
+    <updated>2016-12-03T17:04:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/short-sleeve-shirt"/>
+    <title>Short Sleeve Shirt</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/CHOKER_PACK_1_d1acc119-b47f-4860-a998-ccb11fdc96e1.jpg?v=1481124525" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>42</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>Blouses &amp; Shirts</s:tag>
+    <s:tag>Casual Everyday</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Fit &amp; Flare</s:tag>
+    <s:tag>Going Out &amp; Party Dresses</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Midi Dresses</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>Occasion &amp; Cocktail</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Shift Dresses</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Slip Dresses</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sweaters &amp; Cardigans</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:tag>Tunic Dresses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938316</id>
+      <title>S / red</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938316</id>
+      <title>S / green</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938316</id>
+      <title>S / blue</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938316</id>
+      <title>M / red</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938316</id>
+      <title>M / green</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938316</id>
+      <title>M / blue</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938316</id>
+      <title>L / red</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938316</id>
+      <title>L / green</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938316</id>
+      <title>L / blue</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097938188</id>
+    <published>2016-12-03T17:04:57-05:00</published>
+    <updated>2016-12-03T17:04:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/rise-skinny-jeans"/>
+    <title>Rise Skinny Jeans</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/SHORT_SLEEVE_SHINY_SWEATER_1_8ffddfee-290c-41a4-ba2f-e7019d26860a.jpg?v=1481124379" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>42</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>Blouses &amp; Shirts</s:tag>
+    <s:tag>Casual Everyday</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Fit &amp; Flare</s:tag>
+    <s:tag>Going Out &amp; Party Dresses</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Midi Dresses</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>Occasion &amp; Cocktail</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Shift Dresses</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Slip Dresses</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sweaters &amp; Cardigans</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:tag>Tunic Dresses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938188</id>
+      <title>Default Title</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097938252</id>
+    <published>2016-12-03T17:04:57-05:00</published>
+    <updated>2016-12-03T17:04:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/zoe-floral-print-jeans"/>
+    <title>Floral Print Jeans</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/QUILTED_WAISTCOAT.jpg?v=1481124153" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            230.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>Blouses &amp; Shirts</s:tag>
+    <s:tag>Casual Everyday</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Fit &amp; Flare</s:tag>
+    <s:tag>GAP</s:tag>
+    <s:tag>Going Out &amp; Party Dresses</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>Midi Dresses</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>Occasion &amp; Cocktail</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Shift Dresses</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Slip Dresses</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sweaters &amp; Cardigans</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:tag>Tunic Dresses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938252</id>
+      <title>S / red</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938252</id>
+      <title>S / green</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938252</id>
+      <title>S / blue</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938252</id>
+      <title>M / red</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938252</id>
+      <title>M / green</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938252</id>
+      <title>M / blue</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938252</id>
+      <title>L / red</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938252</id>
+      <title>L / green</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938252</id>
+      <title>L / blue</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashop-default.myshopify.com/products/9097938124</id>
+    <published>2016-12-03T17:04:57-05:00</published>
+    <updated>2016-12-03T17:04:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/products/paris-skinny-jeans"/>
+    <title>Paris Skinny Jeans</title>
+    <s:type></s:type>
+    <s:vendor>yourstore-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1637/5229/products/LEATHER_TASSEL_WALLET_7753e99b-5673-4ea0-8111-210538cb0ee8.jpg?v=1481124490" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>yourstore-default<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="divider divider--md"></div>
+<table class="table table-params">
+<tbody>
+<tr>
+<td class="text-right"><span class="color">PROOF</span></td>
+<td>PDF Proof</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SAMPLES</span></td>
+<td>Digital, Printed</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WRAPPING</span></td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">UV GLOSS COATING</span></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">SHRINK WRAPPING</span></td>
+<td>No Shrink Wrapping, Shrink in 25s, Shrink in 50s, Shrink in 100s</td>
+</tr>
+<tr>
+<td class="text-right"><span class="color">WEIGHT</span></td>
+<td>0.05, 0.06, 0.07ess cards</td>
+</tr>
+</tbody>
+</table>
+[smallDescription]Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean. [/smallDescription] [custom_html]
+<div class="product-info__description__brand"><img src="https://cdn.shopify.com/s/files/1/1020/0405/files/brand.png?10631915041598488553" alt=""></div>
+<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</div>
+[/custom_html] [video]https://www.youtube.com/watch?v=wR-ySdcnbtk[/video]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>bikini</s:tag>
+    <s:tag>Blouses &amp; Shirts</s:tag>
+    <s:tag>Casual Everyday</s:tag>
+    <s:tag>clothes</s:tag>
+    <s:tag>club dresses</s:tag>
+    <s:tag>colorful</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Fit &amp; Flare</s:tag>
+    <s:tag>Going Out &amp; Party Dresses</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jewellery</s:tag>
+    <s:tag>Midi Dresses</s:tag>
+    <s:tag>model</s:tag>
+    <s:tag>Occasion &amp; Cocktail</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Polo</s:tag>
+    <s:tag>prom dresses</s:tag>
+    <s:tag>Shift Dresses</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Slip Dresses</s:tag>
+    <s:tag>streetstyle</s:tag>
+    <s:tag>style</s:tag>
+    <s:tag>Sweaters &amp; Cardigans</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:tag>Tunic Dresses</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://fashop-default.myshopify.com/products/9097938124</id>
+      <title>Default Title</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

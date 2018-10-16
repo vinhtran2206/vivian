@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fashop-default.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://fashop-default.myshopify.com/blogs/news/tagged/fashion.atom"/>
+  <title>fashop-default - News</title>
+  <updated>2016-12-09T15:49:00-05:00</updated>
+  <author>
+    <name>fashop-default</name>
+  </author>
+  <entry>
+    <id>https://fashop-default.myshopify.com/blogs/news/mauris-lacinia-lectus-7</id>
+    <published>2016-12-09T15:48:00-05:00</published>
+    <updated>2016-12-09T15:51:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashop-default.myshopify.com/blogs/news/mauris-lacinia-lectus-7"/>
+    <title>Mauris Lacinia Lectus</title>
+    <author>
+      <name>Jon Silver</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec eros tellus, scelerisque.<p><a class="read-more" href="https://fashop-default.myshopify.com/blogs/news/mauris-lacinia-lectus-7">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><img src="https://cdn.shopify.com/s/files/1/1637/5229/files/blog6.jpg?1843483024128287592" class="img-responsive" alt=""></p>
+<div class="divider divider--xs"></div>
+<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+<blockquote class="quote-left">
+<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+<cite> <b>Amanda Smith</b> - designer </cite>
+</blockquote>
+<p>Dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>]]>
+    </content>
+  </entry>
+</feed>
