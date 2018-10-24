@@ -1,4 +1,4 @@
-@extends('master')
+@extends('master')aaaa
 @section('content')
     <section class="breadcrumbs">
       <div class="container">
